@@ -8,3 +8,4 @@ urlpatterns=patterns('',
 	url(r'^(?P<poll_id>\d+)/vote/$',views.vote,name='vote'),
 
 	)
+fghjkl
